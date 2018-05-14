@@ -11,7 +11,7 @@ This code generates 95% confidence intervals for beta-distributed probabilities,
 
 ## Setup
 
-To use this code, modify the included `beta_params.csv` file to reflect the \alpha and \beta parameters for each probability of interest.  Be sure to replace the example variable names with names that make sense for your use case, and indicate which of these variables are beta-distributed.
+To use this code, modify the included `beta_params.csv` file to reflect the alpha and beta parameters for each probability of interest.  Be sure to replace the example variable names with names that make sense for your use case, and indicate which of these variables are beta-distributed.
 
 Column names in `beta_params.csv` refer to the following:
 
