@@ -33,7 +33,7 @@ Column names in `beta_params.csv` refer to the following:
 
 Running the code is straightforward.  The libraries needed are `readr` and `dplyr`, both of which must be installed on your system to run this code.  If you don't already have these libraries, you can install them via:
 
-`install.packages("readr", "dplyr")`
+`install.packages(c("readr", "dplyr"))`
 
 ## Output
 
